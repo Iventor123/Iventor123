@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i live in belgium, i use pycharm for my code
 # project
 i'am working on a project called AlarikOS. Its a simple OS that has a notepad,calculator,timer,...
-
+And a logginsystem with users and adminmode!.
 
 <!---
 Iventor123/Iventor123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

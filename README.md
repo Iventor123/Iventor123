@@ -1,3 +1,4 @@
+# about me
 - 👋 Hi, I’m @Iventor123
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python(harder python like tkinter)
@@ -5,7 +6,7 @@
 - 😄 Pronouns: Ave,Iventor
 - ⚡ Fun fact: i live in belgium, i use pycharm for my code
 # project
-
+i'am working on a project called AlarikOS. Its a simple OS that has a notepad,calculator,timer,...
 
 
 <!---

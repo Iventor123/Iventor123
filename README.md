@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ave,Iventor
 - ⚡ Fun fact: i live in belgium, i use pycharm for my code
 # project
-i'am working on a project called AlarikOS. Its a simple OS that has a text editor,calculator,timer,...
+i'am working on a project called G-OS(GUI-OS). Its a simple OS that has a text editor,calculator,timer,...
 And a logginsystem with users and adminmode. 
 made with pyQt5 and tkinter
 # 

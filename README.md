@@ -1,7 +1,7 @@
 # about me
 - 👋 Hi, I’m @Iventor123
 - 👀 I’m interested in Python, Javascript, html
-- 🌱 I’m currently learning Python(SQL and pyqt5) 
+- 🌱 I’m currently learning Javascript 
 
 - 📫 How to reach me alarik.vaneycken@gmail.com
 - 😄 Pronouns: Ave,Iventor

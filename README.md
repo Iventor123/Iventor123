@@ -1,10 +1,10 @@
 # about me
 - 👋 Hi, I’m @Iventor123
-- 👀 I’m interested in Python, Javascript, html
-- 🌱 I’m currently learning Javascript 
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Java 
 
 - 📫 How to reach me alarik.vaneycken@gmail.com
-- 😄 Pronouns: Ave,Iventor
+- 😄 Ign: Iventor, Iventor123
 - ⚡ Fun fact: i live in belgium, i use pycharm for my code
 # 
 
